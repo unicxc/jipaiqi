@@ -1,0 +1,118 @@
+{
+  "own_template_files": [
+    "poker/da.png",
+    "poker/xiao.png",
+    "poker/2.png",
+    "poker/A.png",
+    "poker/K.png",
+    "poker/Q.png",
+    "poker/J.png",
+    "poker/10.png",
+    "poker/9.png",
+    "poker/8.png",
+    "poker/7.png",
+    "poker/6.png",
+    "poker/5.png",
+    "poker/4.png",
+    "poker/3.png"
+  ],
+  "own_template_names": [
+    "da",
+    "xiao",
+    "2",
+    "A",
+    "K",
+    "Q",
+    "J",
+    "10",
+    "9",
+    "8",
+    "7",
+    "6",
+    "5",
+    "4",
+    "3"
+  ],
+  "other_players_template_files": [
+    "chupoker/da.png",
+    "chupoker/xiao.png",
+    "chupoker/2.png",
+    "chupoker/A.png",
+    "chupoker/K.png",
+    "chupoker/Q.png",
+    "chupoker/J.png",
+    "chupoker/10.png",
+    "chupoker/9.png",
+    "chupoker/8.png",
+    "chupoker/7.png",
+    "chupoker/6.png",
+    "chupoker/5.png",
+    "chupoker/4.png",
+    "chupoker/3.png"
+  ],
+  "other_players_template_names": [
+    "chuda",
+    "chuxiao",
+    "chu2",
+    "chuA",
+    "chuK",
+    "chuQ",
+    "chuJ",
+    "chu10",
+    "chu9",
+    "chu8",
+    "chu7",
+    "chu6",
+    "chu5",
+    "chu4",
+    "chu3"
+  ],
+  "player_areas": [
+    {
+      "coordinates": [291, 432, 420, 60],
+      "description": "对家区域"
+    },
+    {
+      "coordinates": [876, 17, 420, 60],
+      "description": "上联区域"
+    },
+    {
+      "coordinates": [970, 131, 420, 60],
+      "description": "下联区域"
+    },
+    {
+      "coordinates": [1050, 377, 420, 60],
+      "description": "上家区域"
+    },
+    {
+      "coordinates": [202, 133, 420, 60],
+      "description": "下家区域"
+    }
+  ],
+  "jinggong_areas": [
+    {
+      "coordinates": [813, 111, 250, 80],
+      "description": "进贡区域"
+    },
+    {
+      "coordinates": [905, 696, 250, 80],
+      "description": "进贡区域"
+    },
+    {
+      "coordinates": [552, 278, 250, 80],
+      "description": "进贡区域"
+    },
+    {
+      "coordinates": [560, 520, 250, 80],
+      "description": "进贡区域"
+    },
+    {
+      "coordinates": [1218, 275, 250, 80],
+      "description": "进贡区域"
+    },
+    {
+      "coordinates": [1200, 518, 250, 80],
+      "description": "进贡区域"
+    }
+  ]
+}
